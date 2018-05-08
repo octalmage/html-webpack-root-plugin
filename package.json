@@ -1,0 +1,25 @@
+{
+  "name": "html-webpack-root-plugin",
+  "version": "0.10.0",
+  "description": "HTML Webpack plugin that adds a tag to the generated HTML for a mount point.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octalmage/html-webpack-root-plugin.git"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jason Stallings",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "mocha": "^5.1.1"
+  }
+}
